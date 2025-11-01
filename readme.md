@@ -2,4 +2,4 @@
 
 ## Aprendiendo a sincronizar GitHub desde VSCode
 
-##Tercera linea en readme
+## Tercera linea en readme
